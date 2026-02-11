@@ -1,0 +1,5 @@
+l=(78,34,98,26)
+print(l[::-1])
+print("Maximum of the tuple is:",max(l))
+print("Minimum of the  tuple is:",min(l))
+print("Find 34 element index: ",l.index(34))
